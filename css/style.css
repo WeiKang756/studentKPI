@@ -1,0 +1,43 @@
+body{
+  font-family: 'Nunito Sans', sans-serif;
+  background-color: white;
+}
+
+nav{
+  margin: 0px;
+}
+
+h1{
+  text-align: center;
+  margin-right: 50px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+/* 高亮行 */
+.row {
+    margin-bottom: 10px;
+}
+
+/* 高亮列 */
+.col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logoImage{
+  margin-top: -30px
+}
+
+.nav{
+  margin-top: -30px
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@900&display=swap');
+
+.navKPI{
+    font-family: 'Unbounded', sans-serif;
+}
+
+.cardIndicator{
+  background-color:black
+}
